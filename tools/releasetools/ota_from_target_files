@@ -487,6 +487,7 @@ else if get_stage("%(bcb_dev)s", "stage") == "3/3" then
   script.ShowProgress(0.5, 0)
   script.Print("rastakat")
   script.Print("by rascarlo")
+  script.Print("lichti1901 edition")
   script.Print("don't involve rasta in your say-say")
 
   if OPTIONS.wipe_user_data:
